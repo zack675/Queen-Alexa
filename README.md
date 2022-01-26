@@ -1,4 +1,4 @@
-# Queen Alexa
+# Zack Bot
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
@@ -12,7 +12,7 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zack675/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
@@ -31,17 +31,17 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@zack675/Queen-Alexa-QR-Code)
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/zack675/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [Here](https://github.com/zack675/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Here](https://github.com/zack675/Queen-Alexa/blob/main/settings.json#L14)
+- Bot Name [Here](https://github.com/zack675/Queen-Alexa/blob/main/settings.json#L15)
 
 ## `CHANGE DYNO`
 
